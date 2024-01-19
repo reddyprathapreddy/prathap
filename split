@@ -1,0 +1,5 @@
+a=input('enter a sentence')
+i=0
+out=" "
+while i<len(a):
+    if a[i]==' ':

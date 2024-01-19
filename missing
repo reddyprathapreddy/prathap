@@ -1,0 +1,6 @@
+a=input('enter a string')
+out=' '
+for i in a:
+    if not '0'<=char<='z':
+        out+=char
+print(out)        
